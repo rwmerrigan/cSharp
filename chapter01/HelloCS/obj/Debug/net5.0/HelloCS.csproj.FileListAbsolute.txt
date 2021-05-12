@@ -1,0 +1,16 @@
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\bin\Debug\net5.0\HelloCS.exe
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\bin\Debug\net5.0\HelloCS.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csprojAssemblyReference.cache
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\obj\Debug\net5.0\HelloCS.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+C:\Users\rmerriga\source\repos\cSharp\chapter01\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache
