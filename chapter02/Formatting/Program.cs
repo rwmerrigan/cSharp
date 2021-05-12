@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace Formatting
 {
@@ -51,6 +52,23 @@ namespace Formatting
                 format: "{0,-8} {1,6:N0}",
                 arg0: bananasText,
                 arg1: bananasCount
+            );
+
+            System.Console.WriteLine("Type your first name and press ENTER: ");
+            string firstName = Console.ReadLine();
+
+            System.Console.WriteLine("Type your age and press ENTER ");
+            string age = Console.ReadLine();
+
+            System.Console.WriteLine($"Hello {firstName}, you look good for {age}.");
+
+            System.Console.WriteLine("Press any key combination: ");
+            System.ConsoleKeyInfo key = ReadKey();
+            System.Console.WriteLine();
+            System.Console.WriteLine("Key: {0}, Char: {1}, Modifiers: {2}",
+                arg0: key.Key,
+                arg1: key.KeyChar,
+                arg2: key.Modifiers
             );
         }
     }
