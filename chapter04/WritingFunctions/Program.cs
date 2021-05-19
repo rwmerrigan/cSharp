@@ -123,7 +123,8 @@ namespace WritingFunctions
             }
         }
 
-        static void RunCardinalToOrdinal(){
+        static void RunCardinalToOrdinal()
+        {
             for (int number = 1; number < 40; number++)
             {
                 Write($"{CardinalToOrdinal(number)}");
@@ -131,46 +132,83 @@ namespace WritingFunctions
             System.Console.WriteLine();
         }
 
-        static int Factorial(int number){
-            if(number < 1){
+        static int Factorial(int number)
+        {
+            if (number < 1)
+            {
                 return 0;
-            }else if(number == 1){
+            }
+            else if (number == 1)
+            {
                 return 1;
-            }else{
+            }
+            else
+            {
                 return number * Factorial(number - 1);
             }
         }
 
-        static void RunFactorial(){
+        static void RunFactorial()
+        {
             for (int i = 1; i < 15; i++)
             {
                 WriteLine($"{i}! = {Factorial(i):N0}");
             }
         }
 
-        static int FibImperative(int term){
-            if(term == 1){
+        /// <summary>
+        /// Illustrates an imperative function call
+        /// </summary>
+        /// <param name="term"></param>
+        /// <returns></returns>
+        static int FibImperative(int term)
+        {
+            if (term == 1)
+            {
                 return 0;
-            }else if(term == 2){
+            }
+            else if (term == 2)
+            {
                 return 1;
-            }else{
+            }
+            else
+            {
                 return FibImperative(term - 1) + FibImperative(term - 2);
             }
         }
 
-        static void RunFibImperative(){
+        static void RunFibImperative()
+        {
             for (int i = 1; i <= 30; i++)
             {
                 WriteLine("The {0} term of the Fibonacci sequence is {1:N0}.",
                 arg0: CardinalToOrdinal(i),
                 arg1: FibImperative(term: i));
-                
+
             }
         }
 
+        static int FibFunctional(int term) =>
+        term switch
+        {
+            1 => 0,
+            2 => 1,
+            _ => FibFunctional(term - 1) + FibFunctional(term - 2)
+        };
+
+        static void RunFibFunctional(){
+            for (int i = 1; i <= 30; i++)
+            {
+                WriteLine("The {0} term of the Fibonacci sequence is {1:N0}.",
+                arg0: CardinalToOrdinal(i),
+                arg1: FibFunctional(term: i));
+            }
+        }
+
+
         static void Main(string[] args)
         {
-            RunFibImperative();
+            RunFibFunctional();
 
         }
     }
