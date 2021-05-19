@@ -10,7 +10,15 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
+<<<<<<< HEAD
+<<<<<<< HEAD:chapter03/HandlingExceptions/.vscode/launch.json
             "program": "${workspaceFolder}/bin/Debug/net5.0/HandlingExceptions.dll",
+=======
+            "program": "${workspaceFolder}/bin/Debug/net5.0/Exercise02.dll",
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1:chapter03/Exercise02/.vscode/launch.json
+=======
+            "program": "${workspaceFolder}/bin/Debug/net5.0/HandlingExceptions.dll",
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
             "args": [],
             "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\rwmer\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csprojAssemblyReference.cache
 C:\Users\rwmer\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\rwmer\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfoInputs.cache
@@ -14,3 +15,21 @@ C:\Users\rwmer\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0
 C:\Users\rwmer\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\ref\HandlingExceptions.dll
 C:\Users\rwmer\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.pdb
 C:\Users\rwmer\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.genruntimeconfig.cache
+=======
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csprojAssemblyReference.cache
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfo.cs
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.exe
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.deps.json
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.json
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.dev.json
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\bin\Debug\net5.0\ref\HandlingExceptions.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.pdb
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\ref\HandlingExceptions.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.pdb
+C:\Users\rmerriga\source\repos\cSharp\chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.genruntimeconfig.cache
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1

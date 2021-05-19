@@ -1,8 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
+<<<<<<< HEAD
 
+=======
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
+<<<<<<< HEAD
 
 </Project>
+=======
+  <ItemGroup>
+  </ItemGroup>
+</Project>
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1

@@ -2,6 +2,21 @@
 	"folders": [
 		{
 			"path": "HandlingExceptions"
+<<<<<<< HEAD
+=======
+		},
+		{
+			"path": "CheckingForOverflow"
+		},
+		{
+			"path": "Exercise02"
+		},
+		{
+			"path": "Exercise03"
+		},
+		{
+			"path": "Exercise04"
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
 		}
 	]
 }

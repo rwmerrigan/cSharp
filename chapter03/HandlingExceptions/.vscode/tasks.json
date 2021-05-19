@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD:chapter03/HandlingExceptions/.vscode/tasks.json
 {
     "version": "2.0.0",
     "tasks": [
@@ -39,4 +41,64 @@
             "problemMatcher": "$msCompile"
         }
     ]
+=======
+=======
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+<<<<<<< HEAD
+                "${workspaceFolder}/Exercise02.csproj",
+=======
+                "${workspaceFolder}/HandlingExceptions.csproj",
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+<<<<<<< HEAD
+                "${workspaceFolder}/Exercise02.csproj",
+=======
+                "${workspaceFolder}/HandlingExceptions.csproj",
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+<<<<<<< HEAD
+                "${workspaceFolder}/Exercise02.csproj",
+=======
+                "${workspaceFolder}/HandlingExceptions.csproj",
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+<<<<<<< HEAD
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1:chapter03/Exercise02/.vscode/tasks.json
+=======
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
 }

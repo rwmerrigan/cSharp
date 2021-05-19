@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "8zJTEvjnGRvDcCAoFz6iU7j6J5SbYrQ0thAr3MeD3r5Quym794Zm4oy1NF1EkL9+QhrGlfLmh2EFxOsMdZ2N6g==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\rwmer\\source\\repos\\cSharp\\chapter03\\HandlingExceptions\\HandlingExceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "8AbvyACPvCSf6PfZzaEAGfdSF8fPkO9xr4GkGvaWPJCjhDqC1nXgxs/39tTb6QvMFXclRZ5GERscA8THwWyLrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmerriga\\source\\repos\\cSharp\\chapter03\\HandlingExceptions\\HandlingExceptions.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
 }

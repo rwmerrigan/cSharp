@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeOptions": {
     "tfm": "net5.0",
@@ -6,4 +7,14 @@
       "version": "5.0.0"
     }
   }
+=======
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "5.0.0"
+    }
+  }
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
 }

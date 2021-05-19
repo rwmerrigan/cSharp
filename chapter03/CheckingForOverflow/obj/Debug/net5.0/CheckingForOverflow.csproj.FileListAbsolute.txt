@@ -1,0 +1,16 @@
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\bin\Debug\net5.0\CheckingForOverflow.exe
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\bin\Debug\net5.0\CheckingForOverflow.deps.json
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\bin\Debug\net5.0\CheckingForOverflow.runtimeconfig.json
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\bin\Debug\net5.0\CheckingForOverflow.runtimeconfig.dev.json
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\bin\Debug\net5.0\CheckingForOverflow.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\bin\Debug\net5.0\ref\CheckingForOverflow.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\bin\Debug\net5.0\CheckingForOverflow.pdb
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\obj\Debug\net5.0\CheckingForOverflow.csprojAssemblyReference.cache
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\obj\Debug\net5.0\CheckingForOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\obj\Debug\net5.0\CheckingForOverflow.AssemblyInfoInputs.cache
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\obj\Debug\net5.0\CheckingForOverflow.AssemblyInfo.cs
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\obj\Debug\net5.0\CheckingForOverflow.csproj.CoreCompileInputs.cache
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\obj\Debug\net5.0\CheckingForOverflow.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\obj\Debug\net5.0\ref\CheckingForOverflow.dll
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\obj\Debug\net5.0\CheckingForOverflow.pdb
+C:\Users\rmerriga\source\repos\cSharp\chapter03\CheckingForOverflow\obj\Debug\net5.0\CheckingForOverflow.genruntimeconfig.cache

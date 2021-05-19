@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD:chapter03/HandlingExceptions/obj/HandlingExceptions.csproj.nuget.dgspec.json
 {
   "format": 1,
   "restore": {
@@ -63,4 +65,87 @@
       }
     }
   }
+=======
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rmerriga\\source\\repos\\cSharp\\chapter03\\Exercise02\\Exercise02.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rmerriga\\source\\repos\\cSharp\\chapter03\\Exercise02\\Exercise02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rmerriga\\source\\repos\\cSharp\\chapter03\\Exercise02\\Exercise02.csproj",
+        "projectName": "Exercise02",
+        "projectPath": "C:\\Users\\rmerriga\\source\\repos\\cSharp\\chapter03\\Exercise02\\Exercise02.csproj",
+        "packagesPath": "C:\\Users\\rmerriga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rmerriga\\source\\repos\\cSharp\\chapter03\\Exercise02\\obj\\",
+=======
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rmerriga\\source\\repos\\cSharp\\chapter03\\HandlingExceptions\\HandlingExceptions.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rmerriga\\source\\repos\\cSharp\\chapter03\\HandlingExceptions\\HandlingExceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rmerriga\\source\\repos\\cSharp\\chapter03\\HandlingExceptions\\HandlingExceptions.csproj",
+        "projectName": "HandlingExceptions",
+        "projectPath": "C:\\Users\\rmerriga\\source\\repos\\cSharp\\chapter03\\HandlingExceptions\\HandlingExceptions.csproj",
+        "packagesPath": "C:\\Users\\rmerriga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rmerriga\\source\\repos\\cSharp\\chapter03\\HandlingExceptions\\obj\\",
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rmerriga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ms51632.starbucks.net/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+<<<<<<< HEAD
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1:chapter03/Exercise02/obj/Exercise02.csproj.nuget.dgspec.json
+=======
+>>>>>>> 43ec0982e6a156b951eeea5986cb43be046dcfa1
 }
