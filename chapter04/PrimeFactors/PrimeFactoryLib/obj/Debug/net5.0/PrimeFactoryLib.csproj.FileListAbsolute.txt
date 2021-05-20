@@ -1,0 +1,12 @@
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\bin\Debug\net5.0\PrimeFactoryLib.deps.json
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\bin\Debug\net5.0\PrimeFactoryLib.dll
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\bin\Debug\net5.0\ref\PrimeFactoryLib.dll
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\bin\Debug\net5.0\PrimeFactoryLib.pdb
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\obj\Debug\net5.0\PrimeFactoryLib.csprojAssemblyReference.cache
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\obj\Debug\net5.0\PrimeFactoryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\obj\Debug\net5.0\PrimeFactoryLib.AssemblyInfoInputs.cache
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\obj\Debug\net5.0\PrimeFactoryLib.AssemblyInfo.cs
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\obj\Debug\net5.0\PrimeFactoryLib.csproj.CoreCompileInputs.cache
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\obj\Debug\net5.0\PrimeFactoryLib.dll
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\obj\Debug\net5.0\ref\PrimeFactoryLib.dll
+C:\Users\rwmer\source\repos\cSharp\chapter04\PrimeFactors\PrimeFactoryLib\obj\Debug\net5.0\PrimeFactoryLib.pdb

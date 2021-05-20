@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "PrimeFactoryLib"
+		},
+		{
+			"path": "PrimeFactoryLibUnitTests"
+		},
+		{
+			"path": "PrimeFactoryConsole"
+		}
+	],
+	"settings": {}
+}
