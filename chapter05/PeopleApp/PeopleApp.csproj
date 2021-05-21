@@ -7,5 +7,6 @@
 
   <ItemGroup>
     <ProjectReference Include="../PacktLibrary/PacktLibrary.csproj" />
+    <ProjectReference Include="../PacktLibrary9/PacktLibrary9.csproj" />
   </ItemGroup>
 </Project>

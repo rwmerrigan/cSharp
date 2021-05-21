@@ -17,3 +17,5 @@ C:\Users\rwmer\source\repos\cSharp\chapter05\PeopleApp\obj\Debug\net5.0\PeopleAp
 C:\Users\rwmer\source\repos\cSharp\chapter05\PeopleApp\obj\Debug\net5.0\ref\PeopleApp.dll
 C:\Users\rwmer\source\repos\cSharp\chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.pdb
 C:\Users\rwmer\source\repos\cSharp\chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.genruntimeconfig.cache
+C:\Users\rwmer\source\repos\cSharp\chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.dll
+C:\Users\rwmer\source\repos\cSharp\chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.pdb
