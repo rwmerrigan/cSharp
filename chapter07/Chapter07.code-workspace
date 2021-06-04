@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "SharedLibrary"
+		},
+		{
+			"path": "DotNetCoreEverywhere"
 		}
 	],
 	"settings": {}
